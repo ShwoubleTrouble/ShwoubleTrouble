@@ -1,4 +1,4 @@
-header.png
+![image](header.png)
 - 👀 I’m interested in Python and Linux
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: Telegram: @c228py
